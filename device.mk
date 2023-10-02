@@ -398,7 +398,9 @@ PRODUCT_PACKAGES += \
     redwoodGLSettingsProviderOverlay \
     redwoodGLWifiOverlay \
     redwoodINSettingsProviderOverlay \
-    redwoodINWifiOverlay
+    redwoodINWifiOverlay\
+    SettingsProviderOverlayRedwood \
+    SettingsOverlayRedwood
 
 # Partitions
 PRODUCT_BUILD_SUPER_PARTITION := false
