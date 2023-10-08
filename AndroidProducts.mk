@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2023 The LineageOS Project
+# Copyright (C) 2023 The arrowOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_redwood.mk
+    $(LOCAL_DIR)/arrow_redwood.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_redwood-user \
-    lineage_redwood-userdebug \
-    lineage_redwood-eng
+    arrow_redwood-user \
+    arrow_redwood-userdebug \
+    arrow_redwood-eng
