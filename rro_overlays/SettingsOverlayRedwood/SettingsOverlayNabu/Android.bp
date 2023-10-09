@@ -1,6 +1,6 @@
 runtime_resource_overlay {
-    name: "SettingsOverlayNabu",
-    theme: "SettingsOverlayNabu",
+    name: "SettingsOverlayredwood",
+    theme: "SettingsOverlayredwood",
     certificate: "platform",
     sdk_version: "current",
     product_specific: true
